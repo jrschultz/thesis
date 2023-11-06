@@ -688,15 +688,108 @@ It is this very same concept of mysticism and the language of union that exists 
 
 * CHAPTER 4 - JOHANNINE AND PAULINE PHRASEOLOGY AND THEOLOGY: A COMPARISON AND CONTRAST
 
+The themes of union and indwelling that Paul expresses in his “in Christ” phraseology are distinctively Pauline,[fn:209]  yet at the same time, theologically similar concepts are present within the Johannine Gospel and Epistles. John communicates his theology via two constructions. His expressions, εἶναι ἐν, “to be in,” and μένειν ἐν “to abide in,” are used in various ways throughout the Johannine corpus, and seem to be used interchangeably.[fn:210]  Scholars have noted that John’s phraseology is conceptually similar to Paul’s ἐν Χριστῷ, but John uses his constructions in a much more varied way that makes assessing his grammatical-theological matrix a very complex endeavor.
+
+Despite the multifaceted nature of John’s phraseology, this chapter will provide an exegetical assessment and a theological synopsis of Johannine literature in an attempt to come to an understanding of John’s main theological points in his linguistic usage. Additionally, a brief study of Johannine mysticism will be conducted to examine the way that John communicates mystical theology in his writings. Further, a comparison and contrast of Pauline phraseology and Johannine phraseology, as well as the connection of each to Lutheran theology, will also be carried out. Finally, some practical implications of this study will be outlined to illuminate the relevance of such an analysis at this time in the church’s history.
+
 ** Exegetical Assessment of the "Abide in" Phraseology
+
+The verb μένω has a fairly wide semantic range. It can mean a literal staying, living, dwelling, remaining, lasting or persisting. Additionally, though it conveys the idea of someone not leaving a realm or sphere where he or she remains, abides or continues in. This idea is especially relevant for such concepts as remaining in a teaching (2 John 9) or continuing in God’s love (John 15:9).[fn:211]  Yet, there is a usage of me/nw that goes further than these usages.
+
+The preposition ἐν in Johannine usage is extremely significant. There seems to be present in John’s writings what some have called a “distinctive ἐν of religious fellowship.”[fn:212]  It is often found in a predicate position with both εἶναι and even more commonly with μένειν, with a reciprocity of the relationship frequently being emphasized. In these specific instances, John reveals his “mystical” theology of union and immanence.
+
+When analyzing John’s usage of both εἶναι ἐν and μένειν ἐν,  two main characteristics emerge. The first is that John uses both constructions frequently, and the other is that they seem to be interchangeable. The following charts illustrate not only the sheer abundance of the phraseology in the Johannine corpus, but also the specific usage of the grammatical construction in each instance. For example, εἶναι ἐν is an “umbrella” category for ἐν αὐτός, ἐν σύ, ἐν ἐμοί, and ἐν ἡμῖν.
+
+[[./img/CH4-ChartA.png]]
+
+/Note:  The term “hits” here refers to the number of occurrences of the word in the
+stated verses./ 
+
+These charts identify each usage of John’s phraseology based solely on grammatical occurrence. This approach is useful in that it illustrates how extremely important these phrases are in John’s writings as a whole. However, in several instances, they simply communicate “non-theological” or “common” details such as the fact that Jesus stayed in a physical location.[fn:213]  Some scholars have noticed interesting correlations in the Johannine texts pertaining to the relationships of God the Father to Jesus, Jesus to the Father, and the believer to Jesus, etc. and have categorized the verses into three main groups: 1) the indwelling of God and Jesus in the believer; 2) the indwelling of divine realities in the Christian; and 3) corollary theological uses related to the indwelling of the divine things in the Christian.[fn:214] 
+
+The following chart illustrates the specific passages revealing the relationship between God the Father and Jesus and the believer. Notice the correlation between the εἶναι ἐν and μένειν ἐν phrases, further reinforcing the view that the two phrases are almost totally interchangeable.
+
+[[./img/CH4-ChartB.png]]
+
+Notice that God abides in Christ in John 14:10. Believers abide in Christ in John 6:56; 15:4-7; 1 John 2:6, 27ff; 3:6, and Christ in them in John 15:4-7; 1 John 3:24. God abides in His believers in 1 John 4:16 and believers subsequently abide in God in 1 John 2:24; 4:16. Contained in these understandings is the believer’s realized eschatological status in the present time. Certain aspects of this ontological reality are already part of the believer’s new life in Christ, and as a result are said to be in or abide in the believer, while the believer is said also to abide in them.[fn:215] 
+
+John illustrates the relationship that exists between God and the believer by presenting the pertinent theological realities in four different ways. One way John accomplishes this is by stating that certain positive traits are in the believer. But at the same time, John introduces a dichotomy or dualistic world view by stating that other positive traits are /not/ found in /unbelievers/. Hence John illustrates positive realities, yet frames them in a negative setting. The other two ways John writes about the relationship between God and His believers are by stating that negative traits are /not/ found in believers and by noting that negative traits are in fact found in /unbelievers/. This interesting theological matrix is illustrated clearly in the following chart.[fn:216] 
+
+[[./img/CH4-ChartC.png]]
+
+There are also some corollary uses that reflect the same dichotomies of life that the preceding chart illustrated. However, these passages tend to be more theologically miscellaneous and “do not lend themselves easily to schematization.”[fn:217]  They are conceptually close, yet at the same time not as clearly succinct as the previous passages are.
+
+[[./img/CH4-ChartD.png]]
+/Chart Note/[fn:218]  
+
+The vocabulary which John uses to speak of divine indwelling or mystical union (See @@html:<a href="./img/CH4-ChartB.png">Indwelling Chart</a>@@) is largely unique to John. In fact, “the verb me/nein ejn is used in John mostly with a distinctive theological meaning to refer to the ‘lasting immanence’ between God and Christ or believers and Christ, emphasizing the sense of permanence.”[fn:219]  Yet despite this synopsis, “Johannine scholars in the modern period have shown much reserve on the subject of ‘mysticism’ in John. While Dodd and Barrett take a neutral position in this area of study, scholars such as B.F. Westcott, A. Plummer, E.C. Hoskyns, J.H. Bernard, R.H. Lightfoot, R.E. Brown, F.F. Bruce, G.R. Beasley-Murray and T.L. Brodie, in their commentaries, and L. Newbiggin and B. Milne, in their expositions, are almost reluctant to discuss the subject.”[fn:220]  This reluctance on the part of most modern Johannine scholars to discuss John’s mysticism has made researching this topic quite difficult, with limited results. Yet ancient scholars such as Clement of Alexandria, Origen, Augustine and others in patristic circles had no difficulty reading and validating John’s mysticism. This extreme divergence in the interpretation and understanding of Johannine texts is worthy of in-depth study in and of itself. However, the task of this chapter is concerned with exploring the Johannine theology of indwelling.
 
 ** Theological Synopsis of John's "Abide in" Theology
 
-** God indwelling or abiding in Christians and they in Him
+Because modern scholarship on Johannine mystical theology and indwelling is so underdeveloped, few scholarly sources are available from which to consult and objectively discuss the topic at length. This statement is particularly true amongst Lutheran scholarship on John’s Gospels and Epistles as a whole, not to mention more specialized works of exegetical theology. More study that is at the very least willing to /consider/ Johannine mystical theology is needed in this area from scholars in general, as well as from Lutheran scholarship. That being said, it appears that three major textual groupings exist in John that have to do with divine indwelling.[fn:221]  They are grouped as 1) God indwelling or abiding in Christians, and they in Him; 2) Jesus abiding in Christians and they in Him; and the less developed theme of 3) Christians abiding in Jesus and the Father.
 
-** Jesus abiding in Christians and they in Him
+*** God indwelling or abiding in Christians and they in Him
 
-** Christians abiding in Jesus and the Father
+This grouping of texts is largely located in 1 John 4:12-16, with two other thematic instances located in 1 John 2:5-6 and 3:24. Contained in this collection are several other related themes that are common throughout John’s corpus, such as believing, seeing, knowing, keeping of commandments, arguably Trinitarian references to Father, Son and Spirit, and love. In this grouping of texts, these major Johannine themes are intrinsically connected and bound together with John’s concept of abiding.
+
+Modern commentators on these verses emphasize different aspects, simply because contained in this grouping are so many major Johannine themes! The only shared result between them is an outright negation of mystical indwelling or a superficial treatment of it.[fn:222] A mystical consideration of these texts could express the indwelling or abiding theme as the union between the believer and God, which is received as a gift of God in Christ.
+
+This mystical experience of indwelling interconnects the major themes in John’s writing together as a real manifestation of God’s action in the world in and through His Christians[fn:223] – a gift and reality that is brought about by God’s objective Word and Sacraments. Therefore in this understanding, keeping God’s commandments and walking in them (περιπατέω) illustrates the reality of the Christian’s life. It is nothing less than God’s love in Christ that brings about this union, and God himself maintains that union by abiding in the Christian. Hence, all the themes of the Christian life that John writes about occur and flow out of the believer because God is truly abiding in His Christians, and they in him.
+
+*** Jesus abiding in Christians and they in Him
+
+There are three major textual sections that deal with the indwelling of Christ and His Christians. The first is John 6:51-58, most notably 6:56; the second is the vine and the branches narrative of 15:1-17; and the third is in the context of Jesus’ high priestly prayer specifically in 17:20-26. These passages provide the clearest illumination of John’s theological conception of mystical union and divine indwelling.
+
+The first section, which has already been considered in-depth in chapter 2, illustrates the sacramental connection between the abiding of Jesus in His Christians and they in Him. John 6:56 specifically illustrates:
+
+#+BEGIN_QUOTE
+[The theological reality] of communion and union /par excellence/, for in the Sacrament the life-giving flesh of Christ is actually present. Eating the flesh of Christ effects the forgiveness of sins (Matt. 26:28), but it is also the means to the mutual indwelling or abiding of Christ and the saints (John 6:56) through which the saints have union with Christ and with the Father. Through the eating and drinking of this Sacrament the saints share in the life of God (John 6:53).[fn:224] 
+#+END_QUOTE
+
+This idea is quickly followed by 6:57 which is “a most forceful expression of the tremendous claim that Jesus gives /man a share in God’s own life/, an expression far more
+real than the abstract formulation of II Pet i 4.”[fn:225]  Hence the abiding in and partaking of the divine nature is here intrinsically fused with the objective means of grace.
+
+The second section is the well known pericope of the vine and the branches. The language of the section is intensely interesting in that there are direct textual correlations  the Eucharistic section of the bread of life discourse.[fn:226] Such parallels have led some scholars to indicate that John 15 may have sacramental meaning as well. This real possibility will not be entertained here due to concerns of space and scope. However, it is a topic in need of further exegetical study.
+
+Most scholars are in agreement that the meaning of this text is the vital connection between Jesus (the vine) and Christians (the branches)—an intrinsically communal aspect. It makes sense theologically that Jesus is the source that gives life to the branches.[fn:227]  It is this union with Jesus that makes fruit grow on the branches—that is, produce the fruit of the Spirit in the life of the believer (Gal 5:22-23). Hence, the indwelling of Christ produces fruit in the Christian life.
+
+An intensely interesting observation with the vine and branches pericope is that πιστεύω does not occur even once.[fn:228]  Rather, the abiding imagery is present. Morris suggests that they “mean much the same,”[fn:229]  almost to the point of interchangeability. However, there may be conceptual linkage between πιστεύω and μένω, but John’s use of μένω introduces a deeper nuance than does πιστεύω. A direct interchangeability of the terms may lead to a confusion of justification and sanctification, for frequently John links abiding with the keeping (τηρέω)[fn:230]  of Jesus’ words and commandments.
+
+The theological connection present in this pericope is that faith in Christ, characterized by the imagery of the vine and the branches that conveys John’s interest in the mystical union, is the source not only of life and salvation (justification), but also of the fruit of the spirit (sanctification). The mystical union is the “glue” that holds both justification and sanctification together, intrinsically connected and inseparable, yet simultaneously remaining distinct and unconfused, like the hypostatic union of the two natures of Christ.
+
+The last section in this textual grouping is John 17:20-26. No other pericope has been the foundation for ecumenicalism like these passages from John. However, modern scholarship has evaded the significance of the mystical union in understanding Jesus’ words in the /hina/ clause: ἵνα ὦσιν ἓν καθὼς ἡμεῖς ἕν (John 17:22). Instead, several interesting interpretations have been advanced.
+
+Morris interprets Jesus to mean a closer unity than the inferior unity that the disciples had had before; a “spiritual unity” with an outward expression to influence the world.[fn:231]  Barrett remains ambiguous and uncommitted to a definitive position[fn:232]  regarding the unity that Jesus speaks about, as does Köstenberger.[fn:233]  Beasley-Murray introduces an interesting insight, suggesting that John may have been aware that the Qumran community called itself “the unity” (yahad). This statement in Jesus’ prayer is thus interpreted as a polemical statement against the Qumranian understanding. Additionally, Beasley-Murray states that the unity Jesus envisions is an appropriate ethical response.[fn:234]  Bruce, meanwhile, understands the unity as a unity of love which exists eternally between the Father and the Son.[fn:235] 
+
+Brown and Schnackenburg give the concept of unity the most attention and introduce interesting interpretations to consider. Brown sees the unity as “vital” and “organic” because the model for it is the relationship of the Father and the Son. Hence, “Johannine statements about unity imply both a horizontal and vertical dimension. The unity involves the relation of the believers to the Father and the Son (vertical) and the relation of the believers among themselves (horizontal).”[fn:236]  Brown determines that a mystical relationship to God cannot be the only intended meaning, yet at the same time, this “unity is not simply a human fellowship or the harmonious interaction of Christians.”[fn:237] 
+
+Schnackenburg also allows for a mystical element to be part of his interpretation:
+
+#+BEGIN_QUOTE
+By Jesus being in the disciples and the Father being in Jesus, the community of disciples is entirely filled with God’s being and in this way joined and kept together themselves. It becomes a perfect unity (εἰς ἕν) and is at the same time called to make the mystery of divine unity visible in brotherly love. It is this that will enable the world to know that Jesus, who makes the Christian community the visible manifestation of the divine being, is the one sent by God. The community’s unity and expression of love is ultimately a mystery of divine love.[fn:238] 
+#+END_QUOTE
+
+Of the scholarly commentaries surveyed here, Schnackenburg comes closest to relating the mystical nature of John’s vocabulary to his interpretation. However, an even more mystical interpretation of the text may provide additional insight.
+
+In the pericope, Jesus introduces many complex textual structures which weave several ἲνα and ὂτι clauses throughout. With mystical union and divine indwelling presented here alongside the unity of the Godhead—that is, a /homoousious/ unity—John illustrates an ontological reality of faith and Christology. Beinert elaborates:
+
+#+BEGIN_QUOTE
+In the incarnation Christ assumed an apersonal human nature which is consubstantial with the human nature in its entirety. In this way, Christ is consubstantial with both the Father and with us. In His person, Christ effected union and reconciliation between God and all humanity. In this way, Christ is the bridge and mediator of union between God and man. ... The mystical union, however, is different from the personal union of the two natures in Christ. For the union of the two natures in Christ is a personal and permanent union wherein the two natures share fully in each other’s attributes so that the flesh of Christ is truly the flesh of the Deity. The mystical union is not as sublime as this personal union in Christ and differs by degree. It is constituted by faith and is not with the bare Deity (Ex. 33:20), but is rather mediated through the flesh of Christ. Thus the saints become members of Christ and not of the Trinity or the essential Deity. Thus as Christ is one person and a member of the Trinity, so also the saints can be said to be hypostases and members of Christ through the mystical bond of faith.[fn:239] 
+#+END_QUOTE
+
+Hence, the unity that Jesus prays for is a unity totally encapsulated in divine indwelling, which John encapsulates with his “abiding” language. In this pericope, Jesus prays that the disciples at that time, and the ones that would come later, would be one (ἒν) and in both He and the Father  ἵνα ὁ κόσμος πιστεύῃ ὅτι σύ με ἀπέστειλας (17:21) and  ἵνα γινώσκῃ ὁ κόσμος ὅτι σύ με ἀπέστειλας (17:23). There is an inherent evangelistic purpose communicated in these phrases which cannot take place in the church apart from the mystical union—which, again, is extremely similar conceptually as well as linguistically to the vine and branches narrative.
+
+The mission of carrying the Gospel of Jesus Christ to the ends of the earth by the one, holy, catholic and apostolic church cannot take place by a merely human effort externally striving for unity. Instead, the goal of mission is an inherent reality of the faith in believers. They /are/ perfectly one, and engaged in mission to the world, because of the divine indwelling of Jesus Christ in believers and they in Him.
+
+*** Christians abiding in Jesus and the Father
+
+The final category of indwelling texts in the Johannine corpus deals with a mutual abiding of the Christian in the Father /and/ in Jesus. In John 17:21, which was treated in the last category of texts, as well as in 1 John 2:24 and 5:20, John further develops his indwelling language and theology.
+
+In 1 John 2:24, some interesting considerations exist which elaborate John’s divine indwelling theology. The context for this text is John’s dualistic or dichotomous view of the believers and the non-believers or opponents of the church. The “placing of the ὑμεῖς at the beginning of the verse distinguishes the attitude of the community from that of the false teachers.”[fn:240]  Hence, John implores the believers to abide, using the imperative μενέτω, in what they heard from the beginning (ὃ ἠκούσατε ἀπ' ἀρχῆς). It is by abiding in this “foundational tradition, [which] guarantees its abiding in the Father and in the Son.”[fn:241]  Satan, the world, sin, and false teachers constantly assault the Christian
+
+Satan, the world, sin, and false teachers constantly assault the Christian church in an attempt to sway her from orthodox theology, the foundational tradition. This precise concept is echoed again in 2 John 9: πᾶς ὁ προάγων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ θεὸν οὐκ ἔχει· ὁ μένων ἐν τῇ διδαχῇ, οὗτος καὶ τὸν πατέρα καὶ τὸν υἱὸν ἔχει.
+
+It is no mistake that John stresses a doctrinal unity that must be maintained by rejecting false teachers who would move the Christian community from unity with Christ in the freedom of the Gospel back into the slavery of the Law.[fn:242]  There is only one true Gospel that must be clung to, and that already indwells the true believers of Christ. Accepting an εὐαγγέλιον ἕτερον would expel the church from the abiding in the Son and the Father.[fn:243]  Those believers who deny the orthodox teaching of Christ do not and cannot know the true one (γινώσκωμεν τὸν ἀληθινόν), for it is the orthodox believers who abide in the true one, in the Son, Jesus Christ ( ἐσμὲν ἐν τῷ ἀληθινῷ, ἐν τῷ υἱῷ αὐτοῦ Ἰησοῦ Χριστῷ). For He is both the true God and eternal life (οὗτός ἐστιν ὁ ἀληθινὸς θεὸς καὶ ζωὴ αἰώνιος),[fn:244] and the Christian abides in both Him and the Father.
 
 ** Johannine Mysticism
 
@@ -869,6 +962,61 @@ Yeago, David S. “The Doctrine of the Mystical Union.” Lutheran Forum 18 (198
 -----
 
 * FOOTNOTES
+
+[fn:244]  1 John 5:20.
+[fn:243] See also εὐαγγέλιον ἕτερον in 2 Cor 11:4; Gal 1:6.
+
+[fn:242] See also ψευδάδελφος in 2 Cor 11:26; Gal 2:4.
+[fn:241] Strecker, The Johannine Letters, 69.
+
+[fn:240] Strecker, The Johannine Letters, 68.
+[fn:239] Beinert, “The Teaching of the Mystical Union,” 114-116.
+
+[fn:238]  Rudolf Schnackenburg, The Gospel According to St. John (Herder’s Theological Commentary on the New Testament 3; New York: Crossroad, 1982), 193.
+[fn:237] Brown, The Gospel According to John 29a:776.
+
+[fn:236] Brown, The Gospel According to John 29a:776.
+[fn:235] F. F. Bruce, The Gospel of John (Grand Rapids: Eerdmans, 1983), 335. Cf. Robert Kysar, John (Augsburg Commentary on the New Testament; Minneapolis: Augsburg, 1986), 262.
+
+[fn:234] George R. Beasley-Murray, John (WBC 36; Waco: Word Books, 1987), 302-303. Cf. Brown, The Gospel According to John 29a:777.
+[fn:233] Köstenberger, John, 498-499.
+
+[fn:232] C. K. Barrett, The Gospel According to St. John: An Introduction with Commentary and Notes on the Greek Text (2d ed.; Philadelphia: Westminster, 1978), 513.
+[fn:231] Morris, The Gospel According to John, 650-651.
+
+[fn:230] W. Bauer, “thre/w,” BDAG, 1002: “keep, observe, fulfill, pay attention to, esp. of law and teaching.” This is an extremely common theme in Johannine theology. It goes much further in nuance than simply a more “legalistic” obeying of God’s commandments. With this language, John has in mind a “walking-in” approach to the Christian life. See 2 John 6: καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ· αὕτη ἡ ἐντολή ἐστιν, καθὼς ἠκούσατε ἀπ' ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε. Cf. Eph. 2:10 αὐτοῦ γάρ ἐσμεν ποίημα, κτισθέντες ἐν Χριστῷ Ἰησοῦ ἐπὶ ἔργοις ἀγαθοῖς οἷς προητοίμασεν ὁ θεὸς ἵνα ἐν αὐτοῖς περιπατήσωμεν.
+[fn:229] Morris, The Gospel According to John, 297.
+
+[fn:228] Andreas J. Köstenberger, John (Baker Exegetical Commentary on the New Testament; Grand Rapids: Baker Academic, 2004), 453; Leon Morris, The Gospel According to John (NICNT; rev. ed., Grand Rapids: Eerdmans, 1995), 297.
+[fn:227] Related concepts: living water in John 4:14; bread of life in 6:35.
+
+[fn:226]  Brown, The Gospel According to John, 29a:673. “In particular, xv 5 with its ‘He who remains in me and I in him’ echoes vi 56: ‘The man who feeds on my flesh and drinks my blood remains in me and I in him.’ In xv it is implied that life comes to the branch through the vine; so in vi 57 we hear: ‘The man who feeds on me will have life because of me.’ In xv 13 Jesus speaks of one’s laying down his life for those he loves; in vi 51 he says: ‘The bread that I shall give is my own flesh for the life of the world.’ The ‘I am the living bread’ of vi 51 and ‘I am the real vine’ of xv 1 form a Johannine diptych not unlike ‘This is my body’ and ‘This is my blood.’”
+[fn:225] Raymond E. Brown, The Gospel According to John (2 vols.; AB 29-29a; Garden City: Doubleday, 1966-1970), 29:292. Emphasis Brown’s.
+
+[fn:224]  Beinert, “The Teaching of the Mystical Union,” 120. Emphasis Beinert’s.
+[fn:223] This is also known as God’s “uncreated energies.” See Richard A. Beinert, “The Teaching of the Mystical Union in the Writings of Martin Luther, The Lutheran Confessions and Martin Chemnitz” (M.Div thesis, Concordia Lutheran Seminary, 1996), 118. “In Christ through the sacramental life of the Church the saints are drawn into a participation in the uncreated energies of God. In this way, they partake of the divine nature, life and existence.”
+
+[fn:222]  Strecker, The Johannine Letters, 159. “The reciprocity of God’s abiding in believers and believers in God does not refer to any mystical indwelling.” Cf. Smalley, 1,2,3 John, 250; Kruse The Letters of John, 165; Lieu, The Theology of the Johannine Epistles, 41-45; F.F. Bruce, The Epistles of John (Grand Rapids: Eerdmanns, 1970), 109-112; Robert Kysar, Augsburg Commentary on the New Testament: I. II, III John (Minneapolis: Augsburg, 1986), 98-100; Brown, The Epistles of John, 553-560.
+[fn:221] These categories consider indwelling passages that have to do with Christians and God. The other passages that refer to the perichoresis of the Godhead can be found in  @@html:<a href="./img/CH4-ChartB.png">Indwelling Chart</a>@@
+
+[fn:220]  Kanagaraj, ‘Mysticism’ in the Gospel of John, 20.
+[fn:219] Jey J. Kanagaraj, ‘Mysticism’ in the Gospel of John: An Inquiry into its Background (Sheffield, England: Sheffield, 1998), 264.
+
+
+[fn:218] Brown, The Epistles of John, 196, 260; F. Hauck, “μένω,” TDNT, 4:574-581; W. Bauer, “μένω,” BDAG, 630-631.
+[fn:217] Brown, The Epistles of John, 196, 260.
+
+[fn:216] Brown, The Epistles of John, 195-196, 259-260; F. Hauck, “μένω,” TDNT, 4:574-581; W. Bauer, “μένω,” BDAG, 630-631.
+[fn:215]  F. Hauck, “μένω,” TDNT, 4:576.
+
+[fn:214]  Brown, The Epistles of John, 195-196, 259-260. Cf. F. Hauck, “μένω,” TDNT, 4:574-581; Judith M. Lieu, The Theology of the Johannine Epistles (Cambridge: Cambridge University Press, 1991), 41-45; Colin G. Kruse, The Letters of John (PNTC; Grand Rapids: Eerdmans, 2000), 81; Georg Strecker, The Johannine Letters: A Commentary on 1, 2, and 3 John (trans. Linda M. Maloney; Minneapolis: Fortress, 1996), 44-45; Stephen S. Smalley, 1,2,3 John (WBC 51; Waco: Word Books, 1984), 51-52.
+[fn:213] “After this he went down to Capernaum, with his mother and his brothers and his disciples, and they stayed there for a few days” (John 2:12). For other such usage see: John 1:38, 39; 2:12; 4:40; 7:9; 10:40; 11:6; 11:54; 19:31; 21:22; 21:23; Rev. 17:10.
+
+[fn:212] A. Oepke, “ἐν,” TDNT, 2:542.
+[fn:211] W. Bauer, “μένω,” BDAG, 630-631.
+
+[fn:210]  Raymond E. Brown, The Epistles of John (AB 30; New York: Doubleday, 1982), 259.
+[fn:209]  There is one necessary grammatical caveat to this statement. The ἐν Χριστῷ formula appears in Peter’s writings as well: 1Pet 3:16; 5:10,14.
 
 [fn:208] McGinn, The Foundations of Mysticism, 4.
 [fn:207] Schweitzer, The Mysticism of Paul, 19-23.
